@@ -242,9 +242,6 @@ const Index = () => {
           </motion.div>
         </div>
 
-        <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
-          <div className="w-px h-16 bg-gradient-to-b from-primary/60 to-transparent" />
-        </div>
       </section>
 
       {/* ═══ STATS BAR ═══ */}
